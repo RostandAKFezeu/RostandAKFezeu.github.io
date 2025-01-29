@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <b>Ph.D. Candidate in Computer Science</b> @ UofM -- Twin Cities
-subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.umn.edu/'>University of Minnesota -- Twin Cities</a>. Blessed to be advised by Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
+subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.umn.edu/'>University of Minnesota</a> advised by Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Rostand (aka. Ross) is an innovative computer scientist with more than a decade of expertise working in computer networking and R\&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science and computer networks including: 4G/5G/6G wireless mobile networks, emerging scalable network architectures (such as NFVs, SDNs), applied machine learning for network systems and content distribution networks (CDNs).
+Rostand (aka. Ross) is an innovative computer scientist with more than a decade of expertise working in computer networking and R&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science and computer networks including: 4G/5G/6G wireless mobile networks, emerging scalable network architectures (such as NFVs, SDNs), applied machine learning for network systems and content distribution networks (CDNs).
 Proficient problem solver, effective communicator, and fluent in French.
 
 Rostand earned a B.S. degree in computer science and mathematics
