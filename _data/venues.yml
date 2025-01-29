@@ -23,3 +23,7 @@
 "CCGrid":
   url: https://aapt.scitation.org/journal/ajp
   color: "#1E90FF"
+
+"SIGCOMM 5G-MeMU":
+  url: https://conferences.sigcomm.org/sigcomm/2021/workshop-5g-memu.html
+  color: "#9A0000"
