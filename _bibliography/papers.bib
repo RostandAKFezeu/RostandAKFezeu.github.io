@@ -163,7 +163,99 @@ series = {NET4us '22},
 abbr={NET4us},
 google_scholar_id={eQOLeE2rZwMC},
 pdf={kaala.pdf},
+bibtex_show={true},
 }
+
+
+@INPROCEEDINGS {9881629,
+author = { Dayalan, Udhaya Kumar and Fezeu, Rostand A. K. and Salo, Timothy J. and Zhang, Zhi-Li },
+booktitle = { 2022 18th International Conference on Distributed Computing in Sensor Systems (DCOSS) },
+title = { Prototyping a Fine-Grained QoS Framework for 5G and NextG Networks using POWDER },
+year = {2022},
+volume = {},
+ISSN = {},
+pages = {416-419},
+abstract = {Unlike previous generation cellular technologies, 5G networks support diverse radio bands from low-band, mid-band to (mmWave) high-band, and offer a wide variety of new and enhanced features. In particular, 3GPP 5G standards adopt a flow-based 5G Quality-of-Service (QoS) framework that allows more flexibility in mapping QoS "flows" to data radio bearers. Nonetheless, the 5G QoS classes are pre-defined and QoS treatment is limited to the "flow" level. As we will argue in an earlier paper, the 5G QoS framework cannot fully and intelligently utilize the diversity of 5G radio bands and other capabilities to cope with fast varying channel conditions, and is therefore inadequate in meeting the quality-of-experience (QoE) requirements of many emerging applications such as augmented/virtual realities (AR/VR) and connected and autonomous vehicles (CAV). This has led us to advance a novel software-defined, fine-grained QoS framework for 5G/NextG networks.In this "work in progress" paper, we share our initial experience in prototyping the proposed fine-grained QoS framework. Our framework extends both the 5G core network and 5G radio access network (RAN) functionality to enable intelligent control of radio resources in a fashion that exploits application semantics to improve user QoE. We discuss in detail about the changes in different systems and its individual components, share the current state of implementation progress (work completed and in-progress) and finally our evaluation plan to validate the framework when the implementation is complete. },
+keywords = {Powders;5G mobile communication;Semantics;Quality of service;Sensor systems;Quality of experience;Millimeter wave communication},
+doi = {10.1109/DCOSS54816.2022.00075},
+url = {https://doi.ieeecomputersociety.org/10.1109/DCOSS54816.2022.00075},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month =Jun,
+bibtex_show={true},
+abbr={DCOSS},
+google_scholar_id={WF5omc3nYNoC},
+pdf={qos_powder.pdf},
+}
+
+
+@ARTICLE{10242317,
+  author={Dayalan, Udhaya Kumar and Salo, Timothy J. and Fezeu, Rostand A. K. and Zhang, Zhi-Li},
+  journal={IEEE Network},
+  title={Kaala 2.0: Scalable IoT/NextG System Simulator},
+  year={2023},
+  volume={37},
+  number={3},
+  pages={240-246},
+  abstract={The IoT world is evolving with the latest technology trends, like edge computing, augmented & virtual reality, machine learning, robotics, and 5G. With the digital transformation happening in Industry 4.0, many industries are moving toward private 5G networks. There are massive number (hundreds to thousands) of IoT devices in a single factory depending on the scale of the industry and these factories consists of critical IoT devices, like fire or gas sensors which need to operate reliably with less latency. To efficiently realize the capabilities, such as ultra reliable low latency communications (URLLC), enhanced mobile broadband (eMBB), and massive machine-type communications (mMTC) offered by 5G, the next generation IoT devices/applications need a paradigm shift in their design and need to be evaluated under simulation using 5G networks before getting deployed in the real-world. However, many IoT simulators run in isolation and do not interface with real-world IoT cloud systems or support 5G networks. This isolation makes it difficult to design, develop and evaluate IoT applications for industrial automation systems and for experiments to fully replicate the diversity that exists in end-to-end, real-world systems using 5G networks. Kaala 2.0 is the first scalable, hybrid, end-to-end IoT and NextG system simulator that can integrate with real-world IoT cloud services through simulated or real-world 5G networks. Kaala 2.0 is intended to bridge the gap between IoT simulation experiments and the real world using 5G networks. The simulator can interact with cloud IoT services, such as those offered by Amazon, Microsoft, and Google. Depending on the configuration, Kaala 2.0 supports simulation of User Equipment (UE), 5G Radio Access Network (RAN) and 5G Core and at the same time support real-world User Equipment (UE), 5G Radio Access Network (RAN) and 5G Core. Kaala 2.0 can simulate many diverse IoT devices to evaluate mMTC, simulate events that may simultaneously affect several sensors to evaluate URLLC and finally simulate large amount of data to evaluate eMBB.},
+  keywords={Industries;Cloud computing;5G mobile communication;Service robots;Virtual reality;Ultra reliable low latency communication;Production facilities},
+  doi={10.1109/MNET.002.2200498},
+  ISSN={1558-156X},
+  month={May},
+  bibtex_show={true},
+  abbr={IEEE Network},
+  google_scholar_id={roLk4NBRz8UC},
+  pdf={kaala2.pdf},
+}
+
+
+@misc{fezeu2023midband5gmeasurementstudy,
+      title={Mid-Band 5G: A Measurement Study in Europe and US},
+      author={Fezeu, Rostand A. K. and Carpenter, Jason and Fiandrino, Claudio and Ramadan, Eman and Ye, Wei and Widmer, Joerg and Qian, Feng and Zhang, Zhi-Li},
+      year={2023},
+      eprint={2310.11000},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI},
+      url={https://arxiv.org/abs/2310.11000},
+      html={https://arxiv.org/abs/2310.11000},
+      bibtex_show={true},
+      abbr={arXiv},
+      google_scholar_id={UebtZRa9Y70C},
+      pdf={5gMidBand-arxiv.pdf},
+}
+
+
+@InProceedings{10.1007/978-3-031-28486-1_13,
+author="Fezeu, Rostand A. K.
+and Ramadan, Eman
+and Ye, Wei
+and Minneci, Benjamin
+and Xie, Jack
+and Narayanan, Arvind
+and Hassan, Ahmad
+and Qian, Feng
+and Zhang, Zhi-Li
+and Chandrashekar, Jaideep
+and Lee, Myungjin",
+editor="Brunstrom, Anna
+and Flores, Marcel
+and Fiore, Marco",
+title="An In-Depth Measurement Analysis of 5G mmWave PHY Latency and Its Impact on End-to-End Delay",
+booktitle="Passive and Active Measurement",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="284--312",
+abstract="5G aims to offer not only significantly higher throughput than previous generations of cellular networks, but also promises millisecond (ms) and sub-millisecond (ultra-)low latency support at the 5G physical (PHY) layer for future applications. While prior measurement studies have confirmed that commercial 5G deployments can achieve up to several Gigabits per second (Gbps) throughput (especially with the mmWave 5G radio), are they able to deliver on the (sub) millisecond latency promise? With this question in mind, we conducted to our knowledge the first in-depth measurement study of commercial 5G mmWave PHY latency using detailed physical channel events and messages. Through carefully designed experiments and data analytics, we dissect various factors that influence 5G PHY latency of both downlink and uplink data transmissions, and explore their impacts on end-to-end delay. We find that while in the best cases, the 5G (mmWave) PHY-layer is capable of delivering ms/sub-ms latency (with a minimum of 0.09 ms for downlink and 0.76 ms for uplink), these happen rarely. A variety of factors such as channel conditions, re-transmissions, physical layer control and scheduling mechanisms, mobility, and application (edge) server placement can all contribute to increased 5G PHY latency (and thus end-to-end (E2E) delay). Our study provides insights to 5G vendors, carriers as well as application developers/content providers on how to better optimize or mitigate these factors for improved 5G latency performance.",
+isbn="978-3-031-28486-1",
+bibtex_show={true},
+abbr={PAM},
+google_scholar_id={_FxGoFyzp5QC},
+pdf={pam.pdf},
+video={https://www.youtube.com/watch?v=eRfUb8WryuA},
+selected={true}
+}
+
 
 
 

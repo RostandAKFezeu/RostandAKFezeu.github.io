@@ -31,3 +31,20 @@
 "NET4us":
   url: https://conferences.sigcomm.org/sigcomm/2022/workshop-net4us.html
   color: "#8054CC"
+
+"DCOSS":
+  url: https://dcoss.org/dcoss22/program/
+  color: "#8054CC"
+
+
+"IEEE Network":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65
+  color: "#8054CC"
+
+"arxiv":
+  url: https://arxiv.org/abs/2310.11000
+  color: "#8054CC"
+
+"PAM":
+  url: https://pam2023.networks.imdea.org/program/
+  color: "#8054CC"
