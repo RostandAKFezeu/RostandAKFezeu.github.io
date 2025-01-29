@@ -48,3 +48,13 @@
 "PAM":
   url: https://pam2023.networks.imdea.org/program/
   color: "#8054CC"
+
+"IEEE MeditCom":
+  url: https://meditcom2023.ieee-meditcom.org/program-overview-0
+  color: "#8054CC"
+
+"INFOCOM":
+  url: https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference
+  color: "#8054CC"
+
+
