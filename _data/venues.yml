@@ -11,3 +11,7 @@
 "IMC":
   url: https://conferences.sigcomm.org/imc/2020/
   color: "#800080"
+
+"ICNP":
+  url: https://icnp20.cs.ucr.edu/hdrnetsprogram.html
+  color: "#FEBE10"
