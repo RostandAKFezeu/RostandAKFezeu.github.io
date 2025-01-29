@@ -9,7 +9,7 @@ subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ross.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>200 Union St SE</p>
