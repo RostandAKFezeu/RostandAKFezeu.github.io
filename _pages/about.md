@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 #subtitle: <b>Ph.D. Candidate in Computer Science</b> @ UofM -- Twin Cities
-subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.umn.edu/'>University of Minnesota</a> advised by Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
+subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.umn.edu/'>UoFM</a>.
+  Advised by Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
