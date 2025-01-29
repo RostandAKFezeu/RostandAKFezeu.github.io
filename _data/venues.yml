@@ -37,11 +37,11 @@
   color: "#8054CC"
 
 
-"IEEE Network":
+"IEEENetwork":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65
   color: "#8054CC"
 
-"arxiv":
+"arXiv":
   url: https://arxiv.org/abs/2310.11000
   color: "#8054CC"
 
