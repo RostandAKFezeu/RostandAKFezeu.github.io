@@ -94,14 +94,27 @@ series = {HotMobile '21}
 }
 
 @INPROCEEDINGS{9259411,
-  author={\textbf{\rossln}, \textbf{\icnp} \textbf{\rossfn} and Zhang, Zhi-Li},
+  author={Fezeu, Rostand A. K. and Zhang, Zhi-Li},
   booktitle={2020 IEEE 28th International Conference on Network Protocols (ICNP)},
   title={Anomalous Model-Driven-Telemetry Network-Stream BGP Detection},
   year={2020},
   volume={},
   number={},
   pages={1-6},
-  doi={10.1109/ICNP49622.2020.9259411}
+  abstract={There is a growing demand for real-time analysis of network data streams. In recent years, Model Driven Telemetry (MDT) has been developed - in place of conventional methods such as Simple Network Management Protocol (SNMP), Syslog and CLI commands - to provide a fine-grain holistic view of a network at the control, data and management planes. High-frequency MDT data streams generated from network devices enable new ways of designing Network Operation and Management (OAM) solutions, laying the foundation for future "self-driving" networks.In this paper we study anomaly detection using MDT data streams in a data center environment. In many commercial data centers, BGP is re-purposed for (policy-driven, path-based) intra-routing (as opposed to inter-domain routing that it was originally designed for) to take advantage of rich path diversity. Several vendors have developed MDT data models using YANG that allow routers/switches to express and stream various BGP features for (centralized) network OAM operations. We develop a systematic MDT data processing and feature selection framework that is portable to multiple MDT vendors. Furthermore, we advance NetCorDenstream that builds and improves upon OutlierDenStream proposed in [10] for real-time detection of streamed anomalous MDT data. We show that NetCorDenstream achieves a 59% reduction in alarms raised when compared with OutlierDenStream, thereby reducing the (attention) burden placed on network operators. In particular, it increases alarm detection precision significantly while decreasing false alarms at the expense of a slightly delayed response time.},
+  keywords={Telemetry;Routing protocols;Data centers;Data models;Anomaly detection;Task analysis;Feature extraction;OutlierDenStream;NetCorDenStream;MDT Data},
+  doi={10.1109/ICNP49622.2020.9259411},
+  ISSN={2643-3303},
+  month={Oct},
+  series = {ICNP '20},
+  bibtex_show={true},
+  preview={wave-mechanics.gif},
+  abbr={ICNP},
+  slides={https://icnp20.cs.ucr.edu/Slides/HDR-Nets/s3-2.pptx}
+  code={https://github.com/RostandAKFezeu/NetCorDenStream},
+  video={https://www.youtube.com/watch?v=XrpO-9wG0HA&t=4857s},
+  google_scholar_id={u-x6o8ySG0sC},
+  pdf={netcordenstream.pdf}
 }
 
 
