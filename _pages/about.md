@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Ph.D. Candidate in Computer Science</b> @ UofM -- Twin Cities
+#subtitle: <b>Ph.D. Candidate in Computer Science</b> @ UofM -- Twin Cities
+subtitle: <b>Ph.D. candidate</b> conducting research in Computer Science at the <a href='https://cse.umn.edu/cs'>Computer Science & Engineering</a> department at the <a href='https://cse.umn.edu/'>University of Minnesota</a>. Blessed to be advised by Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -28,8 +29,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Rostand (aka. Ross) is an innovative computer scientist with more than a decade of expertise working in computer networking and R\&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science and computer networks including: 4G/5G/6G wireless mobile networks, emerging scalable network architectures (such as NFVs, SDNs), applied machine learning for network systems and content distribution networks (CDNs).
+Proficient problem solver, effective communicator, and fluent in French.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Rostand earned a B.S. degree in computer science and mathematics
+with an emphasis in computation from <a href='https://www.mnstate.edu/'>Minnesota State University Moorhead</a>, and a M.S. in computers science from the
+<a href='https://cse.umn.edu/'>University of Minnesota</a>. Ross has previously worked for big technology
+companies like Microsoft and Cisco Systems, and has a solid
+experience in theories, researching, developing, and implementing internet technologies and networks systems.
