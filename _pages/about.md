@@ -4,7 +4,7 @@ title: about
 permalink: /
 #subtitle: <b>Ph.D. Candidate in Computer Science</b> @ UofM -- Twin Cities
 subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.umn.edu/'>UoFM</a>.
-  Advised by Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
+  Advisor - Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -33,7 +33,7 @@ latest_posts:
 Rostand (aka. Ross) is an innovative computer scientist with more than a decade of expertise working in computer networking and R&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science and computer networks including: 4G/5G/6G wireless mobile networks, emerging scalable network architectures (such as NFVs, SDNs), applied machine learning for network systems and content distribution networks (CDNs).
 Proficient problem solver, effective communicator, and fluent in French.
 
-Rostand earned a B.S. degree in computer science and mathematics
+Ross earned a B.S. degree in computer science and mathematics
 with an emphasis in computation from <a href='https://www.mnstate.edu/'>Minnesota State University Moorhead</a>, and a M.S. in computers science from the
 <a href='https://cse.umn.edu/'>University of Minnesota</a>. Ross has previously worked for big technology
 companies like Microsoft and Cisco Systems, and has a solid
