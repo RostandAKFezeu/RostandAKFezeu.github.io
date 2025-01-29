@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <b>Ph.D. Candidate in Computer Science</b> @ UofM -- Twin Cities
-subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.umn.edu/'>University of Minnesota</a>. Blessed to be advised by Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
+subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.umn.edu/'>University of Minnesota -- Twin Cities</a>. Blessed to be advised by Prof. <a href='https://cse.umn.edu/cs/zhi-li-zhang'>Zhi-Li Zhang</a>.
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -11,9 +11,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>200 Union St SE</p>
+    <p>Room 4-192 Keller Hall</p>
+    <p>Minneapolis, MN, 55455</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
