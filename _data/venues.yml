@@ -24,6 +24,10 @@
   url: https://aapt.scitation.org/journal/ajp
   color: "#1E90FF"
 
-"5G-MeMU":
+"SIGCOMM\n5G-MeMU":
   url: https://conferences.sigcomm.org/sigcomm/2021/workshop-5g-memu.html
   color: "#9A0000"
+
+"NET4us":
+  url: https://conferences.sigcomm.org/sigcomm/2022/workshop-net4us.html
+  color: "#009f36"
