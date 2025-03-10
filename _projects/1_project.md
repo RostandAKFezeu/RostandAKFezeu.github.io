@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 3
-category: work
-related_publications: true
+title: Commercial 5G Measurements
+description: Focus -- 2019 marks the year for commercial 5G deployment rollouts. Compared to 4G LTE and its predecessors, 5G networks promise ultra-high data rates, low latency, and massive connectivity, but achieving these performance goals requires continuous measurement and optimization. 5G measurements play a crucial role in evaluating network performance, diagnosing issues, and ensuring that services meet the demands of modern applications, including autonomous vehicles, IoT networks, and industrial automation.
+img: assets/img/5g_measurement.jpg
+importance: 1
+category: current
+redirect: https://dl.acm.org/doi/10.1145/3651890.3672269
+#related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

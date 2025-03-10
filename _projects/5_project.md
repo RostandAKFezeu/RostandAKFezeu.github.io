@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Network Security, Robustness, and Management
+description: Focus -- AI and ML enhance computer security by detecting anomalies in model-driven telemetry data. By analyzing real-time network behavior, these systems identify threats, predict breaches, and minimize false alarms. This proactive approach strengthens cybersecurity, ensuring robust protection for critical infrastructure and enterprises.
+img: assets/img/incp.jpg
+importance: 2
+category: past
+redirect: https://ieeexplore.ieee.org/abstract/document/9259411
 ---
 
 Every project has a beautiful feature showcase page.

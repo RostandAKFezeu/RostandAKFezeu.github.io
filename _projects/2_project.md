@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: AI-Driven Networking and Intelligent Systems
+description: Focus -- Incorporating AI/ML for network optimization, performance improvement, and intelligent software-defined infrastructures.
+    Keywords -- AI/ML algorithms, network troubleshooting, service orchestration, and dynamic flow modeling.
+img: assets/img/tele-op.jpg
+importance: 3
+category: past
+redirect: https://lumos5g.umn.edu/
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 #subtitle: <b>Ph.D. Candidate in Computer Science</b> @ UofM -- Twin Cities
 subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.umn.edu/'>UoFM</a>.
@@ -24,10 +24,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: true
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 ---
 
 Rostand (aka. Ross) is an innovative computer scientist with more than a decade of expertise working in computer networking and R&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science and computer networks including: 4G/5G/6G wireless mobile networks, emerging scalable network architectures (such as NFVs, SDNs), applied machine learning for network systems and content distribution networks (CDNs).

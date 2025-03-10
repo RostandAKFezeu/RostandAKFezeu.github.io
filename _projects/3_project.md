@@ -2,10 +2,10 @@
 layout: page
 title: Next-Generation Networks
 description: Focus -- Designing and developing scalable, resilient, and secure 5G/NextG systems and Internet architectures while conducting in-depth performance measurement, traffic analysis, and cross-layer design improvements. This includes evaluating network performance, enhancing routing, and ensuring economic feasibility of next-generation infrastructures.  Keywords -- 5G/NextG networks, SDN, cloud/edge systems, service function chaining, performance measurement, traffic modeling, cross-layer design, and network manageability. 
-img: /assets/img/nextGen.png
+img: /assets/img/health.jpg
 redirect: https://github.com/SIGCOMM24-5GinMidBands/artifacts
-importance: 1
-category: work
+importance: 2
+category: current
 ---
 
 Every project has a beautiful feature showcase page.

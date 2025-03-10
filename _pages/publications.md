@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications in Conference Proceedings and Workshops
 nav: true
 nav_order: 2

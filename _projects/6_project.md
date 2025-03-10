@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: AI-ML for 5G Networks
+description: Focus -- AI and ML are transforming 5G networks by enabling intelligent automation, real-time optimization, and predictive analytics. These technologies enhance network performance, resource allocation, and interference management while reducing latency and improving reliability. ML-driven models analyze vast amounts of telemetry data to predict traffic patterns, optimize handovers, and detect anomalies for enhanced security and fault management. By integrating AI, 5G networks become more adaptive, self-optimizing, and resilient, paving the way for ultra-reliable connectivity in applications like IoT, autonomous systems, and smart cities.
+img: assets/img/tele-op.jpg
+importance: 3
+category: current
+redirect: https://dl.acm.org/doi/abs/10.1145/3651890.3672250
 ---
 
 Every project has a beautiful feature showcase page.
