@@ -30,7 +30,7 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Rostand (aka. Ross) is an innovative computer scientist with more than a decade of expertise working in computer networking and R&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science and computer networks including: 4G/5G/6G wireless mobile networks, emerging scalable network architectures (such as NFVs, SDNs), applied machine learning for network systems and content distribution networks (CDNs).
+Rostand (aka. Ross) is an innovative computer scientist with more than a decade of expertise working in computer networking and R&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science and computer networks including: 4G/5G/6G wireless mobile networks, Autonomous/Teleoperated (ToD) Driving, emerging scalable network architectures (such as NFVs, SDNs), applied machine learning for network systems and content distribution networks (CDNs).
 Proficient problem solver, effective communicator, and fluent in French.
 
 Ross earned a B.S. degree in computer science and mathematics
@@ -38,3 +38,5 @@ with an emphasis in computation from <a href='https://www.mnstate.edu/'>Minnesot
 <a href='https://cse.umn.edu/'>University of Minnesota</a>. Ross has previously worked for big technology
 companies like Microsoft and Cisco Systems, and has a solid
 experience in theories, researching, developing, and implementing internet technologies and networks systems.
+
+<p style="font-size:140%;color:#fb00ff;">*** I am ready to graduate!!! On the job market actively looking for full-time positions including: Tenure-Track Assistant Professor, Postdocs, and Research Scientist etc. Feel free to reach out if you have any openings. *** </p>
