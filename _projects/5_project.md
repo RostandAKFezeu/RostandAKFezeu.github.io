@@ -5,7 +5,7 @@ description: Focus -- AI and ML enhance computer security by detecting anomalies
 img: assets/img/incp.jpg
 importance: 2
 category: past
-redirect: https://ieeexplore.ieee.org/abstract/document/9259411
+redirect: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9259411
 ---
 
 Every project has a beautiful feature showcase page.

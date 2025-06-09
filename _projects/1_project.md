@@ -5,7 +5,7 @@ description: Focus -- 2019 marks the year for commercial 5G deployment rollouts.
 img: assets/img/5g_measurement.jpg
 importance: 1
 category: current
-redirect: https://dl.acm.org/doi/10.1145/3651890.3672269
+redirect: https://dl.acm.org/doi/pdf/10.1145/3651890.3672269
 #related_publications: true
 ---
 
