@@ -5,7 +5,7 @@ description: Focus -- AI and ML are transforming 5G networks by enabling intelli
 img: assets/img/tele-op.jpg
 importance: 3
 category: current
-redirect: https://dl.acm.org/doi/abs/10.1145/3651890.3672250
+redirect: https://networking.umn.edu/research-areas
 ---
 
 Every project has a beautiful feature showcase page.

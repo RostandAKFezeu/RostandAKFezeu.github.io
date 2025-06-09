@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IoT Networks
-description: As the plethora of Internet of Things (IoT) devices gradually make their way into our lives, several Cloud Service Providers (CSPs) have developed IoT gateway platforms (SDKs) that solely connects IoT devices to their respective cloud. Such commercial gateway are ''cloud-centric''. We study and advance an edge-centric paradigm to IoT gateways. We exploit availability of multiple cloud services for "best" IoT data analytics. 
+description: As the plethora of Internet of Things (IoT) devices gradually make their way into our lives, several Cloud Service Providers (CSPs) have developed IoT gateway platforms (SDKs) that solely connects IoT devices to their respective cloud. Such commercial gateway are ''cloud-centric''. We study and advance an edge-centric paradigm to IoT gateways. We exploit availability of multiple cloud services for "best" IoT data analytics.
 img: assets/img/IoT.jpg
 redirect: https://ieeexplore.ieee.org/abstract/document/9499497
 importance: 1

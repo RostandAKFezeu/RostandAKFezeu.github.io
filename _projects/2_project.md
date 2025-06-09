@@ -2,11 +2,11 @@
 layout: page
 title: AI-Driven Networking and Intelligent Systems
 description: Focus -- Incorporating AI/ML for network optimization, performance improvement, and intelligent software-defined infrastructures.
-    Keywords -- AI/ML algorithms, network troubleshooting, service orchestration, and dynamic flow modeling.
+  Keywords -- AI/ML algorithms, network troubleshooting, service orchestration, and dynamic flow modeling.
 img: assets/img/tele-op.jpg
 importance: 3
 category: past
-redirect: https://lumos5g.umn.edu/
+redirect: https://networking.umn.edu/research-projects/past-projects/lumos5g
 ---
 
 Every project has a beautiful feature showcase page.

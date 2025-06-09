@@ -36,7 +36,6 @@
   url: https://dcoss.org/dcoss22/program/
   color: "#8054CC"
 
-
 "IEEE Network":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65
   color: "#8054CC"
@@ -61,11 +60,10 @@
   url: https://conferences.sigcomm.org/sigcomm/2024/program/
   color: "#8054CC"
 
+"VTC":
+  url: https://events.vtsociety.org/vtc2025-fall/
+  color: "#8054CC"
 
 "CCAT":
   url: https://ccat.umtri.umich.edu/symposium/
   color: "#8054CC"
-
-
-
-

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our <a href="https://dl.acm.org/doi/10.1145/3651890.3672269">5G Carrier Aggregation paper</a> got accepted at  <a href="https://conferences.sigcomm.org/sigcomm/2024/accepted-papers/">SIGCOMM 2024</a>  emoji! :sparkles:.
+Our <a href="https://doi.org/10.1145/3651890.3672250">5G Carrier Aggregation paper</a> got accepted at <a href="https://conferences.sigcomm.org/sigcomm/2024/accepted-papers/">SIGCOMM 2024</a> emoji! :sparkles:.

@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received a <a href="https://hotmobile.org/2025/index.php?id=home">HotMobile 2025</a> Travel Grant and will be attending the conference  emoji! :smile:.
-
-
+I received a <a href="https://hotmobile.org/2025/index.php?id=home">HotMobile 2025</a> Travel Grant and will be attending the conference emoji! :smile:.
