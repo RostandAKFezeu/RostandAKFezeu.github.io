@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper about on AI/ML-based sensing-assisted energy</a> got accepted at <a href="https://events.vtsociety.org/vtc2025-fall/">VTC2025-Fall</a> emoji! :sparkles:.
+Our paper, AI/ML-based sensing-assisted energy got accepted at <a href="https://events.vtsociety.org/vtc2025-fall/">VTC2025-Fall</a> :sparkles:.
