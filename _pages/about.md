@@ -9,7 +9,7 @@ subtitle: <b>Ph.D. Candidate in Computer Science</b> @ the <a href='https://cse.
 
 profile:
   align: right
-  image: ross.jpg
+  image: ross2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>200 Union St SE</p>
@@ -30,10 +30,10 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Rostand (aka. Ross) is an innovative computer scientist with more than a decade of expertise working in computer networking and R&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science and computer networks including: 4G/5G/6G wireless mobile networks, Autonomous/Teleoperated (ToD) Driving, emerging scalable network architectures (such as NFVs, SDNs), applied machine learning for network systems and content distribution networks (CDNs).
+Rostand is a Ph.D. Candidate with more than five years experience working in computer networking and R&D projects, leading research agenda and publishing papers at several top venues like; SIGCOMM, INFOCOM, IMC, PAM, HotMobile, ICNP, etc. Highly trained in Data Science, AI/ML applied to networks systems including: 4G/5G/6G wireless mobile networks, Autonomous/Teleoperated (ToD) Driving, emerging scalable network architectures (such as NFVs, SDNs), and content distribution networks (CDNs).
 Proficient problem solver, effective communicator, and fluent in French.
 
-Ross earned a B.S. degree in computer science and mathematics
+Rostand earned a B.S. degree in computer science and mathematics
 with an emphasis in computation from <a href='https://www.mnstate.edu/'>Minnesota State University Moorhead</a>, and a M.S. in computers science from the
 <a href='https://cse.umn.edu/'>University of Minnesota</a>. Ross has previously worked for big technology
 companies like Microsoft and Cisco Systems, and has a solid
